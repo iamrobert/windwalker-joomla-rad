@@ -20,7 +20,6 @@
 		<folder>src</folder>
 		<folder>vendor</folder>
 		<file>composer.json</file>
-		<file>composer.lock</file>
 		<file>package.json</file>
 		<file>fusionfile.js</file>
 		<file>config.dist.json</file>
